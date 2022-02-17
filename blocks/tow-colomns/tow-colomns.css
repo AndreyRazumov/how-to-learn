@@ -1,0 +1,6 @@
+.tow-colomns {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+}

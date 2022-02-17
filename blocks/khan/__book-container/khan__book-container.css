@@ -1,0 +1,6 @@
+.khan__book-container {
+  margin: 0;
+  bottom: 0;
+  display: flex;
+  overflow: hidden;
+}
